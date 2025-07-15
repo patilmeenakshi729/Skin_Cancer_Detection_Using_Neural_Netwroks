@@ -2,7 +2,7 @@
 
 📍 **Project:** MSc Data Science, University of Sussex (2022)
 
-📄 **File:** [Skin_Cancer_Detection_MSc_Project.pdf](Skin_Cancer_Detection_MSc_Project.pdf)  
+📄 **File:** [Skin_Cancer_Detection_MSc_Project.pdf](SKIN_CANCER_DETECTION_USING_NEURAL_NETWORKS.pdf)  
 
 🏷️ **Keywords:** Deep Learning, CNN, Image Classification, ISIC Dataset, HAM10000
 
