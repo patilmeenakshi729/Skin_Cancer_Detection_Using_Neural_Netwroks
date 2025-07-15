@@ -14,4 +14,4 @@ This research explores how convolutional neural networks (CNNs) can automate the
 
 📈 Achieved classification accuracy comparable to dermatologists using InceptionV3 and ResNet-based models.
 
-🔗 Connect with me on [LinkedIn](linkedin.com/in/patilmeenakshi729)
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/patilmeenakshi729/)
